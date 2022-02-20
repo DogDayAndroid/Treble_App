@@ -23,4 +23,18 @@
     <string name="applying_update_title">Applying system update</string>
     <string name="applied_update_title">Update applied successfully</string>
     <string name="prevent_exit_message">The update is still ongoing. Leaving the app now will stop it.\nDo you really want to exit now?</string>
+    <string name="Huawei_features">Huawei features</string>
+    <string name="Customization_features">Customization features</string>
+    <string name="IMS_features">IMS features</string>
+    <string name="My_device">My device</string>
+    <string name="OnePlus_features">OnePlus features</string>
+    <string name="Nubia_features">Nubia features</string>
+    <string name="Vsmart_features">Vsmart features</string>
+    <string name="Qualcomm_features">Qualcomm features</string>
+    <string name="Samsung_features">Samsung features</string>
+    <string name="Lenovo_features">Lenovo features</string>
+    <string name="Xiaomi_features">Xiaomi features</string>
+    <string name="Oppo_features">Oppo features</string>
+    <string name="Doze_features">Doze features</string>
+    <string name="Misc_features">Misc features</string>
 </resources>
