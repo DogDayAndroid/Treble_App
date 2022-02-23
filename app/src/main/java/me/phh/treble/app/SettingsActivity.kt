@@ -1,3 +1,5 @@
+@file:Suppress("DEPRECATION")
+
 package me.phh.treble.app
 
 import android.content.Context
