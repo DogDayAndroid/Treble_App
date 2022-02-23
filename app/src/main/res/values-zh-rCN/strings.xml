@@ -134,4 +134,6 @@
 	<string name="Enable_workaround_for_white_ish_screen">启用白色屏幕的解决方案</string>
 	<string name="Enable_workaround_for_broken_fingerprint">启用指纹损坏的解决方案</string>
 	<string name="Set_backlight_scale_max_backlight_level">设置背光比例/最大背光水平</string>
+	<string name="Dump_system_logs">将系统日志</string>
+	<string name="Dump_system_logs_summary">日志保存在“/sdcard/Logs.txt”文件中</string>
 </resources>

@@ -153,8 +153,8 @@
 		</Preference>
         <Preference
             android:key="key_misc_dump_logs"
-            android:title="Dump system logs"
-            android:summary="Logs will be stored in the file /sdcard/logs.txt" />
+            android:title="@string/Dump_system_logs"
+            android:summary="@string/Dump_system_logs_summary" />
 		<CheckBoxPreference
 				android:defaultValue="false"
 				android:key="key_misc_remotectl"
